@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<additional>
+    <e1Detector id="CarDetector" lane="E2_1" pos="160.00" freq="1.00" file="CarDetector.xml" friendlyPos="1"/>
+</additional>

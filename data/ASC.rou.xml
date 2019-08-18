@@ -1,0 +1,10 @@
+<routes>
+    <vType id="car" accel="0.8" decel="4.5" sigma="0.5" length="5" maxSpeed="16.67"/>
+
+    <flow id="NTOS" begin="0" end="3600" probability="0.1" from="E0" to="E5" type="car" departLane="free" depart="0"/>
+    <flow id="ETON" begin="0" end="3600" probability="0.1" from="E2" to="E1" type="car" departLane="free" depart="0"/>
+    <flow id="ETOS" begin="0" end="3600" probability="0.1" from="E2" to="E5" type="car" departLane="free" depart="0"/>
+    <flow id="STOE" begin="0" end="3600" probability="0.1" from="E4" to="E3" type="car" departLane="free" depart="0"/>
+    <flow id="STON" begin="0" end="3600" probability="0.1" from="E4" to="E1" type="car" departLane="free" depart="0"/>
+
+</routes>
