@@ -1,3 +1,5 @@
+For English version, you can click here: [README_EN.md](https://github.com/ImLaoBJie/ActuatedSignalControl/blob/master/README_EN.md).
+
 # 感应信号控制
 使用SUMO进行单个路口感应信号控制仿真
 
@@ -65,7 +67,7 @@ MAX_GREEN_TIME_MAJOR = 50.0
 
 * 随检测器位置而定的初期绿灯时间
 
-检测器与停车线间距（m） | 检测器与停车线间距（m）
+检测器与停车线间距（m） | 初期绿灯时间（s）
 ------------ | -------------
 0～12 | 8
 13～18 | 10
