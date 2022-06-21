@@ -1,5 +1,5 @@
 Pillow==6.2.0
 Pypubsub==4.0.3
-numpy==1.17.0
+numpy==1.22.0
 wxPython==4.0.6
 six==1.12.0
